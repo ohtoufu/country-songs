@@ -66,4 +66,4 @@ MVPリリース時までに作っていたいもの：
 2.ユーザー登録とログイン: ユーザーがアプリに登録し、ログインすることで予定を管理できるようにしたい。
 
 ■画面遷移図
-https://www.figma.com/design/H2HYGI1uUYJCHVNgjVtyM7/%E7%84%A1%E9%A1%8C?node-id=12-2&t=KsfVXbtWTrgxUMxU-0
+https://www.figma.com/design/H2HYGI1uUYJCHVNgjVtyM7/%E7%84%A1%E9%A1%8C?node-id=12-2&t=EpVmq82q7ETfhT2F-0
